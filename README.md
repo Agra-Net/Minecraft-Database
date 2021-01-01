@@ -1,3 +1,3 @@
 # Minecraft Database
-Hello! Who Like Minecraft?
-Me Too!
+Hello, welcome to the mcdatabase
+Who like minecraft? I like this game too.
