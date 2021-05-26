@@ -6,7 +6,7 @@ Server. So make sure you has been disable this tools
 
 ## Choose
 
-[Back](https://github.com/FFF-Net/Minecraft-Database) 
+### [< Back](https://github.com/FFF-Net/Minecraft-Database) 
 
-[Home](https://github.com/FFF-Net)
+### [< Home](https://github.com/FFF-Net)
 
